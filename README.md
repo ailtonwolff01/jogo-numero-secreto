@@ -1,0 +1,1 @@
+Projeto desenvoldido no curso da Alura. Foi meu primeirdo código, em meus primeiros passos como curioso e estudante de programação;
